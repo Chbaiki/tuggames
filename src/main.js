@@ -1,16 +1,16 @@
 const app = document.querySelector("#app");
 
 const ITEMS = [
-  { name: "سامي", image: "/images/sami.jpeg" },
-  { name: "داود", image: "/images/daoud.png" },
-  { name: "ياسمين", image: "/images/yasmin.png" },
-  { name: "بشرى", image: "/images/bushra.jpeg" },
-  { name: "ليمون", image: "/images/lemon.jpeg" },
-  { name: "يد", image: "/images/hand.jpeg" },
-  { name: "غزال", image: "/images/gazelle.jpeg" },
-  { name: "دجاجة", image: "/images/chicken.jpeg" },
-  { name: "زرافة", image: "/images/giraffe.jpeg" },
-  { name: "بالون", image: "/images/balloon.jpeg" },
+  { name: "سامي", image: "./images/sami.jpeg" },
+  { name: "داود", image: "./images/daoud.png" },
+  { name: "ياسمين", image: "./images/yasmin.png" },
+  { name: "بشرى", image: "./images/bushra.jpeg" },
+  { name: "ليمون", image: "./images/lemon.jpeg" },
+  { name: "يد", image: "./images/hand.jpeg" },
+  { name: "غزال", image: "./images/gazelle.jpeg" },
+  { name: "دجاجة", image: "./images/chicken.jpeg" },
+  { name: "زرافة", image: "./images/giraffe.jpeg" },
+  { name: "بالون", image: "./images/balloon.jpeg" },
 ];
 
 const TEAMS = [
